@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConverterTabsJava</string>
+    <string name="km_miles">Km → Miles</string>
+    <string name="miles_km">Miles → Km</string>
+</resources>
