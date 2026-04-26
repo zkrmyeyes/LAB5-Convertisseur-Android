@@ -12,13 +12,13 @@ L'application inclut un menu **"Quitter"** et intercepte la touche **Retour** po
 
 ## 📸 Démonstration
 
-| F → C | C → F |
+| C → F | F→  C |
 |-------|-------|
-| ![F to C](screenshots/F_to_C.png) | ![C to F](screenshots/fragment-1.png) |
+| ![C to F](screenshots/fragment-1.png) | ![F to C](screenshots/F_to_c.png) |
 
 | KM → Miles | Miles → KM |
 |-----------|-----------|
-| ![Km to M](screenshots/Km_to_M.png) | ![M to Km](screenshots/M_to_Km.png) |
+| ![Km to M](screenshots/KM_to_M.png) | ![M to Km](screenshots/M_to_km.png) |
 
 ## 🛠️ Technologies utilisées
 
